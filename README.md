@@ -5,7 +5,7 @@
   Author: Yuxiang Wu
   -->
 
-<h1 align="center"> 🏟 <span style="color:orange"><a href="https://www.chatarena.org/">ChatArena</a></span> </h1>
+<h1 align="center"> ⚖️ <span style="color:orange">MALI multi-agent legal informatics </a></span> </h1>
 
 <h3 align="center">
     <p>Multi-Agent Language Game Environments for LLMs</p>
