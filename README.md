@@ -1,6 +1,7 @@
 <!--
-  Title: Chat Arena
-  Description: Chat Arena (or ChatArena) is a language game environment for Large Language Models (LLMs) like GPT-3, GPT-4, ChatGPT, etc.
+  Title: MALI multi-agent legal informatics 
+  
+  Description: A fork of ChatArena language game environment for Large Language Models (LLMs) like GPT-3, GPT-4, ChatGPT, etc.
   Author: Yuxiang Wu
   -->
 
